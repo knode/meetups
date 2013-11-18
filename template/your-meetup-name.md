@@ -3,7 +3,7 @@
 | **location**:         | {city, state}                          |
 |:----------------------|---------------------------------------:|
 | **github**:           | {github org/primary user}              |
-| **organizers**:       | {github/twitter usernames}             |
+| **organizers**:       | {twitter usernames}             |
 | **URLs**:             | http://www.meetup.com/{meetup}/        |
 | **IRC**:              | {freenode.net} {#channel}              |
 | **Code of Conduct**:  | {link to CoC}                          |
