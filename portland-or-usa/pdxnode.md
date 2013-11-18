@@ -4,7 +4,7 @@
 | **location**:         | portland, OR                           |
 |:----------------------|---------------------------------------:|
 | **github**:           | pdxnode                                |
-| **organizers**:       | @hackygolucky, @wraithan, @nvcexploder, @chrisdickinson/@isntitvacant |
+| **organizers**:       | @hackygolucky, @wraithan, @nvcexploder, @isntitvacant, @davidlymanning |
 | **URLs**:             | http://www.meetup.com/nodepdx/         |
 | **IRC**:              | freenode.net #pdxnode                  |
 | **Code of Conduct**:  | http://git.io/3XPrMA                   |
