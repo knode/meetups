@@ -3,9 +3,9 @@
 
 | **location**:         | Portland, OR                           |
 |:----------------------|---------------------------------------:|
-| **github**:           | [PDXnode](https://github.com/PDXnode)                                |
+| **github**:           | [PDXNode](https://github.com/PDXNode)                                |
 | **organizers**:       | [@hackygolucky](https://github.com/hackygolucky), [@wraithan](https://github.com/wraithan), [@nvcexploder](https://github.com/nvcexploder), [@isntitvacant](https://github.com/isntitvacant), [@davidlymanning](https://github.com/davidlymanning) |
-| **URLs**:             | http://www.meetup.com/nodepdx/         |
+| **URLs**:             | http://pdxnode.org         |
 | **IRC**:              | freenode.net [#pdxnode](http://en.irc2go.com/webchat/?net=freenode&room=pdxnode)              |
 | **Twitter**:  | [@PDXnode](https://twitter.com/pdxnode)                   |
 | **Code of Conduct**:  | http://git.io/3XPrMA                   |
@@ -30,7 +30,10 @@ nearby bars.
 
 Hack nights are held on 3rd Thursdays, colocating with [SEPoCoNi](http://epdx.org/groups/sepoconi) ("Southeast
 Portland Coders Night") at Side Door, a coffee shop/diner/bar. This is more
-free-form: there's more emphasis on socializing and hacking than structure.
+free-form: there's more emphasis on socializing and hacking than structure. Newbies are encouraged to introduce
+themselves by the organizers saying hi to unfamiliar faces, and are asked about what they'd like to work on or 
+if they have projects they'd like help with. If new to Node, we point them to various Node resources including
+nodeschool.io
 
 ### Workshops
 
@@ -41,9 +44,10 @@ code school.
 
 Talks are submitted via PR and reviewed by organizers; talk templates are 
 provided. Note that this is not a case of "build it and they will come";
-[@hackygolucky](https://github.com/hackygolucky) actively seek out and encourage talks from the community.
-Newer members are encouraged to do lightning talks: topics include
-packages they've recently released or found useful, tooling, or brief "how-to"'s.
+Organizers actively seek out and encourage talks from community members excited
+about projects they've worked on. Newer members are encouraged to do lightning 
+talks: topics include packages they've recently released or found useful, tooling, 
+or brief "how-to"'s.
 
 There's also a "request for talk" to allow members who are interested in
 a topic request to hear about it at a future meetup; and provide
