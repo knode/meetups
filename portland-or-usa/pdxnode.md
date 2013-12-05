@@ -1,21 +1,22 @@
-# pdxnode
+# PDXnode
 
 
-| **location**:         | portland, OR                           |
+| **location**:         | Portland, OR                           |
 |:----------------------|---------------------------------------:|
-| **github**:           | pdxnode                                |
-| **organizers**:       | @hackygolucky, @wraithan, @nvcexploder, @isntitvacant, @davidlymanning |
+| **github**:           | [PDXnode](https://github.com/PDXnode)                                |
+| **organizers**:       | [@hackygolucky](https://github.com/hackygolucky), [@wraithan](https://github.com/wraithan), [@nvcexploder](https://github.com/nvcexploder), [@isntitvacant](https://github.com/isntitvacant), [@davidlymanning](https://github.com/davidlymanning) |
 | **URLs**:             | http://www.meetup.com/nodepdx/         |
-| **IRC**:              | freenode.net #pdxnode                  |
+| **IRC**:              | freenode.net [#pdxnode](http://en.irc2go.com/webchat/?net=freenode&room=pdxnode)              |
+| **Twitter**:  | [@PDXnode](https://twitter.com/pdxnode)                   |
 | **Code of Conduct**:  | http://git.io/3XPrMA                   |
 
 
 
 ---------------------------
 
-## formats
+## Formats
 
-### talk night
+### Talk Night
 
 Talk nights are held on the first Thursday of the month. They are usually
 comprised of one 15 minute lightning talk with two long-form (30-45 minute)
@@ -25,22 +26,22 @@ talks.  Attendees are encouraged to ask questions and interact with the speaker
 After the meetup, PDXNode usually relocates as a group to one of a few
 nearby bars.
 
-### hack night
+### Hack Night
 
-Hack nights are held on 3rd Thursdays, colocating with SEPoCoNi ("Southeast
+Hack nights are held on 3rd Thursdays, colocating with [SEPoCoNi](http://epdx.org/groups/sepoconi) ("Southeast
 Portland Coders Night") at Side Door, a coffee shop/diner/bar. This is more
 free-form: there's more emphasis on socializing and hacking than structure.
 
-### workshops
+### Workshops
 
 Workshops are currently a WIP; most organizers also TA for the local JavaScript
 code school.
 
-## process
+## Process
 
 Talks are submitted via PR and reviewed by organizers; talk templates are 
 provided. Note that this is not a case of "build it and they will come";
-@hackygolucky actively seek out and encourage talks from the community.
+[@hackygolucky](https://github.com/hackygolucky) actively seek out and encourage talks from the community.
 Newer members are encouraged to do lightning talks: topics include
 packages they've recently released or found useful, tooling, or brief "how-to"'s.
 
@@ -51,4 +52,3 @@ inspiration for those who want to give a talk.
 Once a talk is accepted it is placed in a `YYYY-MM` directory. Additional
 talk resources should be added / linked to from there (presentations, code
 examples, etc.)
-
