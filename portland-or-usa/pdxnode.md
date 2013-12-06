@@ -29,7 +29,7 @@ nearby bars.
 ### Hack Night
 
 Hack nights are held on 3rd Thursdays, colocating with [SEPoCoNi](http://epdx.org/groups/sepoconi) ("Southeast
-Portland Coders Night") at Side Door, a coffee shop/diner/bar. The structure is free-form with a focus on socializing and hacking.Organizers greet newbies and ask what they'd like to work on or if they have any projects they'd like help with. Those new to Node are directed to learning resources, including [nodeschool.io](http://nodeschool.io).
+Portland Coders Night") at Side Door, a coffee shop/diner/bar. The structure is free-form with a focus on socializing and hacking. Organizers greet newbies and ask what they'd like to work on or if they have any projects they'd like help with. Those new to Node are directed to learning resources, including [nodeschool.io](http://nodeschool.io).
 
 ### Workshops
 
