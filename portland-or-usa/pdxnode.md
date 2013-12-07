@@ -3,9 +3,9 @@
 
 | **location**:         | Portland, OR                           |
 |:----------------------|---------------------------------------:|
-| **github**:           | [PDXnode](https://github.com/PDXnode)                                |
+| **github**:           | [PDXNode](https://github.com/PDXNode)                                |
 | **organizers**:       | [@hackygolucky](https://github.com/hackygolucky), [@wraithan](https://github.com/wraithan), [@nvcexploder](https://github.com/nvcexploder), [@isntitvacant](https://github.com/isntitvacant), [@davidlymanning](https://github.com/davidlymanning) |
-| **URLs**:             | http://www.meetup.com/nodepdx/         |
+| **URLs**:             | http://pdxnode.org         |
 | **IRC**:              | freenode.net [#pdxnode](http://en.irc2go.com/webchat/?net=freenode&room=pdxnode)              |
 | **Twitter**:  | [@PDXnode](https://twitter.com/pdxnode)                   |
 | **Code of Conduct**:  | http://git.io/3XPrMA                   |
@@ -29,8 +29,7 @@ nearby bars.
 ### Hack Night
 
 Hack nights are held on 3rd Thursdays, colocating with [SEPoCoNi](http://epdx.org/groups/sepoconi) ("Southeast
-Portland Coders Night") at Side Door, a coffee shop/diner/bar. This is more
-free-form: there's more emphasis on socializing and hacking than structure.
+Portland Coders Night") at Side Door, a coffee shop/diner/bar. The structure is free-form with a focus on socializing and hacking. Organizers greet newbies and ask what they'd like to work on or if they have any projects they'd like help with. Those new to Node are directed to learning resources, including [nodeschool.io](http://nodeschool.io).
 
 ### Workshops
 
@@ -39,14 +38,14 @@ code school.
 
 ## Process
 
-Talks are submitted via PR and reviewed by organizers; talk templates are 
-provided. Note that this is not a case of "build it and they will come";
-[@hackygolucky](https://github.com/hackygolucky) actively seek out and encourage talks from the community.
-Newer members are encouraged to do lightning talks: topics include
-packages they've recently released or found useful, tooling, or brief "how-to"'s.
+Talks are submitted via PR and reviewed by organizers. Talk templates are 
+provided. Note that this is not a case of "build it and they will come".
+Organizers actively seek out and encourage talks from community members. 
+Newer members are encouraged to do lightning talks. Topics include packages 
+they've recently released or found useful, tooling, and brief tutorials.
 
 There's also a "request for talk" to allow members who are interested in
-a topic request to hear about it at a future meetup; and provide
+a topic request to hear about it at a future meetup. The request provides
 inspiration for those who want to give a talk.
 
 Once a talk is accepted it is placed in a `YYYY-MM` directory. Additional
