@@ -1,3 +1,5 @@
+Site in development at knode.github.io
+
 # meetups
 
 A repository of Node meetups. A template is
