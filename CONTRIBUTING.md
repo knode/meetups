@@ -20,8 +20,9 @@ Knowledge of Markdown for editing `.md` documents
 - Discuss proposed changes in an Issue.
 - Submit changes in a Pull Request, fixing one thing. If a pull request is too broad, we may ask
   that you split it up so that each change may be addressed individually.
-- Pull Requests can be merged by contributers with commit access after receiving 2 or more :+1:s
-  from other committers.
+- Pull requests can be merged by contributers with commit access once all open questions have been
+  resolved and there are 2 or more +1's from other committers on the PR, accounting for commits which
+  may have been added or removed.
 
 # Conduct
 
