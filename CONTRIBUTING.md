@@ -39,8 +39,9 @@ implementation choice carries a trade-off and numerous costs. There is seldom
 a right answer, merely an optimal answer given a set of values and
 circumstances.
 
-Please keep unstructured critique to a minimum. If you have solid ideas you
-want to experiment with, make a fork and see how it works.
+Please keep generalize project critique to a minimum. Focused, pointed comments
+are the most helpful. If you have solid ideas you want to experiment with, make
+a fork and see how it works.
 
 We will exclude you from interaction if you insult, demean or harass anyone.
 That is not welcome behaviour. We interpret the term "harassment" as
