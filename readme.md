@@ -1,4 +1,4 @@
-Site in development at [knode.io](knode.io)
+Site in development at [http://knode.io](knode.io)
 
 # meetups
 
