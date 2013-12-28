@@ -140,10 +140,6 @@ function toMetadata() {
   }
 }
 
-function oncomplete(data) {
-  console.log(data)
-}
-
 // simple in this case:
 function slugify(input) {
   input = input.toString()
