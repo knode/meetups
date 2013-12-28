@@ -1,5 +1,5 @@
 {
-  "name": "meetups",
+  "name": "knode-meetups",
   "version": "0.0.0",
   "description": "knode.io catalogue of meetups",
   "main": "index.js",
