@@ -27,7 +27,7 @@ function filter() {
   return stream
 
   function write(entry) {
-    if(!/^(.+)\-(.+)\-(.+)/g.test(entry.path.replace(__dirname))) {
+    if(!/^(.+)\-(.+)(\-(.+))?/g.test(entry.path.replace(__dirname))) {
       entry.ignore()
 
       return
