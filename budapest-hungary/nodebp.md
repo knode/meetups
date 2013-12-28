@@ -18,6 +18,11 @@ comprised of three 20 minute-long talks with a short break in between.
 
 After the meetup, we relocate as a group to one of a few nearby bars.
 
+### Beer Night
+
+Only one talk (40 minutes or so) for this type of event, just to create a friendly atmosphere.
+After that we stay at a pub, drinking crafted beer, and talking Node.
+
 ### Workshops
 
 None for now, we will hold our first workshop in March (featuring Nodeschool)
