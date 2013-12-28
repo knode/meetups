@@ -56,3 +56,7 @@ Meetup objects take the following form:
 , "irc": "irc"
 , "code-of-conduct": "Yes / No / N/A" }
 ```
+
+## license
+
+All code is licensed MIT.
