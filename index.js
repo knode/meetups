@@ -145,9 +145,9 @@ function slugify(input) {
   input = input.toString()
 
   return input
-        .replace(/[^\w\s\d\-]/g, '')
-        .replace(/^\s*/, '')
-        .replace(/\s*$/, '')
-        .replace(/[\-\s]+/g, '-')
-        .toLowerCase()
+    .replace(/[^\w\s\d\-]/g, '')
+    .replace(/^\s*/, '')
+    .replace(/\s*$/, '')
+    .replace(/[\-\s]+/g, '-')
+    .toLowerCase()
 }
