@@ -2,8 +2,8 @@
 
 | **location**:         | Budapest, Hungary                            |
 |:----------------------|---------------------------------------------:|
-| **github**:           | nodebp                                       |
-| **organizers**:       | @nodebp, @nthgergo, @oroce, @slashdotpeter   |
+| **github**:           | [nodebp](https://github.com/nodebp)                                       |
+| **organizers**:       | [@nodebp](https://twitter.com/nodebp), [@nthgergo](https://twitter.com/nthgergo), [@oroce](https://twitter.com/oroce), [@slashdotpeter](https://twitter.com/slashdotpeter)   |
 | **URLs**:             | http://www.meetup.com/nodebp/                |
 | **IRC**:              | N/A                                          |
 | **Code of Conduct**:  | TBD                                          |
@@ -21,7 +21,7 @@ After the meetup, we relocate as a group to one of a few nearby bars.
 ### Beer Night
 
 Only one talk (40 minutes or so) for this type of event, just to create a friendly atmosphere.
-After that we stay at a pub, drinking crafted beer, and talking Node.
+After that we stay at the pub, drinking crafted beer, and talking Node.
 
 ### Workshops
 
