@@ -1,0 +1,32 @@
+{
+  "name": "knode-meetups",
+  "version": "0.0.0",
+  "description": "knode.io catalogue of meetups",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knode/meetups.git"
+  },
+  "keywords": [
+    "knode",
+    "meetups",
+    "organizer",
+    "user",
+    "group"
+  ],
+  "author": "Knode.io <http://knode.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knode/meetups/issues"
+  },
+  "dependencies": {
+    "marked": "~0.3.0",
+    "tape": "~2.3.2",
+    "through": "~2.3.4",
+    "ls-stream": "~1.0.0",
+    "JSONStream": "~0.7.1"
+  }
+}
