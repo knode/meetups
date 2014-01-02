@@ -1,3 +1,5 @@
+Source code and software in this repository is subject to the MIT License
+
 The MIT License (MIT)
 
 Copyright (c) 2013 Chris Dickinson
@@ -19,3 +21,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+Meetup data in this repository is copyright by the contributors and licensed
+under the terms of [CC-BY 4.0][1].
+
+[1]: http://creativecommons.org/licenses/by/4.0/legalcode
