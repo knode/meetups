@@ -1,6 +1,6 @@
 # London Node User Group
 
-| **location**:         | {city, state}                          |
+| **location**:         | London                                 |
 |:----------------------|---------------------------------------:|
 | **github**:           | https://github.com/lnug                |
 | **organizers**:       | @teabass                               |
