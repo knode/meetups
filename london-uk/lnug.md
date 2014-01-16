@@ -1,9 +1,9 @@
 # London Node User Group
 
-| **Location**:         | London                                 |
+| **Location**:         | London, UK                             |
 |:----------------------|---------------------------------------:|
 | **GitHub**:           | https://github.com/lnug                |
-| **Organizer**:       | @teabass                               |
+| **Organizer**:        | [@teabass](https://twitter.com/teabass)|
 | **URLs**:             | http://lnug.org, https://groups.google.com/group/lnug |
 | **IRC**:              | N/A                                    |
 | **Code of Conduct**:  | TBC                                    |
