@@ -12,6 +12,8 @@
 
 ## Format
 
+### Talk Night
+
 We meet once a month in the event room of a bar in Cobble Hill called [61 Local](http://www.61local.com/). Tickets are $10/$15/$20 dollars, depending on when a ticket is purchased, and all proceeds go to charity. Historically we have been splitting between [Girls Who Code](http://www.girlswhocode.com/) and [ScriptEd](http://scripted.org/), but we are open to taking suggestions from the community for more organizations, preferably NYC-based.
 
 We do things lightning talk style: five 10 minute slots, with 5 minutes for speaking and 5 minutes for questions. After the talks, everyone goes downstairs for the beer.js portion of the evening to enjoy local beers and sodas. The ticket comes with a custom 3D printed token that can be redeemed for a beverage of choice.
