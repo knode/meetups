@@ -1,6 +1,6 @@
 # BrooklynJS
 
-| **location**:         | Broolyn, NY                            |
+| **location**:         | Brooklyn, NY                            |
 |:----------------------|---------------------------------------:|
 | **github**:           | [BrooklynJS](https://github.com/brooklynjs/) |
 | **organizers**:       | [@brianloveswords](https://twitter.com/brianloveswords), [@jedschmidt](https://twitter.com/jedschmidt)                 |
