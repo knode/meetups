@@ -27,6 +27,7 @@
     "tape": "~2.3.2",
     "through": "~2.3.4",
     "ls-stream": "~1.0.0",
-    "JSONStream": "~0.7.1"
+    "JSONStream": "~0.7.1",
+    "omnigeo": "0.0.1"
   }
 }

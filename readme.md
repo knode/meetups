@@ -54,6 +54,7 @@ Meetup objects take the following form:
 , "formats": [{name: "Talk Night", info: [/* marked-lexed input */]}]
 , "process": "process description" 
 , "irc": "irc"
+, "coords": {"lat": Number, "lon": Number}
 , "code-of-conduct": "Yes / No / N/A" }
 ```
 

@@ -3,7 +3,8 @@ module.exports = main
 var path = require('path')
   , fs = require('fs')
 
-var through = require('through')
+var geocoder = require('omnigeo')
+  , through = require('through')
   , marked = require('marked')
   , ls = require('ls-stream')
 
@@ -18,6 +19,7 @@ function main() {
     .pipe(filter())
     .pipe(annotateContent())
     .pipe(toMetadata())
+    .pipe(addGeolocation())
 }
 
 // only emit entries that look like meetup markdown files.
@@ -137,6 +139,37 @@ function toMetadata() {
 
 
     stream.queue(meta)
+  }
+}
+
+// add geolocation
+function addGeolocation() {
+  var stream = through(write, end)
+    , pending = 0
+    , ended
+
+  return stream
+
+  function write(meta) {
+    ++pending
+
+    geocoder({service: 'nominatim'}).geocode(meta.location, function(res) {
+      meta.coords = res
+      stream.queue(meta)
+      --pending
+      check() 
+    })
+  }
+
+  function end() {
+    ended = true
+    check()
+  }
+
+  function check() {
+    if(ended && !pending) {
+      stream.queue(null)
+    }
   }
 }
 
