@@ -5,7 +5,7 @@
 | **github**:           | [require('lx')](https://github.com/require-lx) |
 | **organizers**:       | [@daviddias](https://twitter.com/daviddias), [@joaojeronimo](https://twitter.com/joaojeronimo), [@NeCkEr](https://twitter.com/NeCkEr)                |
 | **URLs**:             | www.meetup.com/require-lx
-| **IRC**:              | require('lx')                                    |
+| **IRC**:              | #require('lx')                                    |
 | **Code of Conduct**:  | http://confcodeofconduct.com/          |
 
 ---------------------------
