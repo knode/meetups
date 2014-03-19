@@ -19,9 +19,8 @@
 ### Lunch Talks
 
 Talks are held on the third Tuesday of every month. Our presentations vary from one talk (35-45 minutes), two talks (25-35 minutes), and lightning talks once every quarter (5-10 minutes).
-Everyone is encouraged to ask questions. All skill levels and skill sets are welcome.
+Questions are encourage; all skill levels and skill sets are welcome.
 We strive to provide our community with a safe and friendly environment, conductive to learning, fellowship, and friendship.
-This is our community, let's grow it together!
 
 ### Eat and Drink
 
