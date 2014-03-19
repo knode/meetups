@@ -19,7 +19,9 @@
 ### Lunch Talks
 
 Talks are held on the third Tuesday of every month. Our presentations vary from one talk (35-45 minutes), two talks (25-35 minutes), and lightning talks once every quarter (5-10 minutes).
-Everyone is encouraged to ask questions. All skill levels and skill sets are welcome. We strive to provide our community with a safe and friendly environment, conductive to learning, fellowship, and friendship. This is our community, let's grow it together!
+Everyone is encouraged to ask questions. All skill levels and skill sets are welcome.
+We strive to provide our community with a safe and friendly environment, conductive to learning, fellowship, and friendship.
+This is our community, let's grow it together!
 
 ### Eat and Drink
 
@@ -31,12 +33,17 @@ We accept talk proposals through [email](mailto:oklahomacityjavascript@gmail.com
 
 ### Thunder Plains JS Conference
 
-Our community driven [Thunder Plains JavaScript conference](http://thunderplainsconf.com) is held yearly in Oklahoma City, OK. We invite all speakers to submit a proposal during our Call For Speakers. Thunder Plains covers JavaScript libraries, frameworks, CSS preprocessors, postprocessors, architecture, testing, game development, the beauty and necessity of all things open source, and emerging technology.
+Our community driven [Thunder Plains JavaScript conference](http://thunderplainsconf.com) is held yearly in Oklahoma City, OK.
+We invite all speakers to submit a proposal during our Call For Speakers.
+Thunder Plains covers JavaScript libraries, frameworks, CSS preprocessors, postprocessors, architecture, testing, game development,
+all things open source, and emerging technology.
 
 ## Process
 
-Talks submitted to OKCjs are chosen based on relevancy to JavaScript. We notify speaker once their talk has been accepted. We offer our time to listen to talks, overview slides, and give feedback to all speakers.
+Talks submitted to OKCjs are chosen based on relevancy to JavaScript.
+We notify speaker once their talk has been accepted.
+We offer our time to listen, overview slides, and give feedback to all speakers.
 
 Presentations submitted to Thunder Plains are chosen via a double blind process, chosen by the talk's relevancy and radness.
-After the organizers deliberate over the talks, the submitters are notified of their acceptance status.
+After organizers deliberate over the talks, the submitters are notified of their acceptance status.
 We aim to offer constructive feedback, sincere thanks, and high fives for excellence to all submitters.
