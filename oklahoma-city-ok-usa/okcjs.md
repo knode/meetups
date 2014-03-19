@@ -32,16 +32,16 @@ We accept talk proposals through [email](mailto:oklahomacityjavascript@gmail.com
 
 ### Thunder Plains JS Conference
 
-Our community driven [Thunder Plains JavaScript conference](http://thunderplainsconf.com) is held yearly in Oklahoma City, OK.
-We invite all speakers to submit a proposal during our Call For Speakers.
+Our community driven [Thunder Plains JavaScript Conference](http://thunderplainsconf.com) is held yearly in Oklahoma City, OK.
+We invite all speakers to submit proposals during our Call For Speakers.
 Thunder Plains covers JavaScript libraries, frameworks, CSS preprocessors, postprocessors, architecture, testing, game development,
 all things open source, and emerging technology.
 
 ## Process
 
 Talks submitted to OKCjs are chosen based on relevancy to JavaScript.
-We notify speaker once their talk has been accepted.
-We offer our time to listen, overview slides, and give feedback to all speakers.
+We notify speakers once their talk has been accepted.
+We offer our time to listen to presentations, review slides, and give feedback to all speakers.
 
 Presentations submitted to Thunder Plains are chosen via a double blind process, chosen by the talk's relevancy and radness.
 After organizers deliberate over the talks, the submitters are notified of their acceptance status.
