@@ -1,0 +1,40 @@
+# OKCjs
+
+
+| **location**:         | Oklahoma City, OK                           |
+|:----------------------|---------------------------------------:|
+| **github**:           | [okcjs](https://github.com/okcjs)                                |
+| **organizers**:       | [@amandaharlin](https://github.com/amandaharlin), [@5imian](https://github.com/JesseHarlin), [@vlucas](https://github.com/vlucas) |
+| **URLs**:             | http://okcjs.com         |
+| **IRC**:              | N/A                                    |
+| **Twitter**:          | [@OKCjs](https://twitter.com/OKCjs)                   |
+| **Code of Conduct**:  | http://confcodeofconduct.com/                   |
+
+
+
+---------------------------
+
+## Formats
+
+### Lunch Talks
+
+Talks are held on the third Tuesday of every month. Our presentations vary from one talk (35-45 minutes), two talks (25-35 minutes), or lightning talks once every quarter (5-10 minutes).
+Everyone is encouraged to ask questions. All skill levels and skill sets are welcome. We strive to provide our community with a safe and friendly environment, conductive to learning, fellowship, and friendship. This is our community, let's grow it together.
+
+### Eat and Drink
+
+Our sponsors provide sodas and pizza or tacos each month. (Amanda brings cookie cake for Jesse's February birthday.)
+
+### Becoming a Speaker
+
+We accept talk proposals through [email](mailto:oklahomacityjavascript@gmail.com), [twitter](twitter.com/okcjs), or you can talk to us in person.
+
+### Thunder Plains JS Conference
+
+Our community driven [Thunder Plains JavaScript conference](http://thunderplainsconf.com) is held yearly in Oklahoma City, OK. We invite all speakers to submit a proposal during our Call For Speakers. Thunder Plains covers JavaScript libraries, frameworks, CSS preprocessors, postprocessors, architecture, testing, game development, the beauty and necessity of all things open source, and emerging technology.
+
+## Process
+
+Talks submitted to OKCjs are chosen based on relevancy to JavaScript. We notify speaker once their talk has been accepted. We offer our time to listen to talks, overview slides, and give feedback to all speakers.
+
+Presentations submitted to Thunder Plains are chosen via a double blind process, chosen by the talk's relevancy and radness. After the organizers decide on their favorite talks, we notify the speakers that have been selected. We aim to offer constructive feedback to all speakers and to thank each submitter for being so brave. Each submitter will be notified if they have been selected or not, and also awarded a high five* for excellence. (*Redeemable if submitter is in close proximity OKC.)
