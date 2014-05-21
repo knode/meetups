@@ -1,6 +1,6 @@
-# {Meetup Name}
+# Nodejs-Colorado
 
-| **location**:         | {city, state}                          |
+| **location**:         | Boulder, CO                          |
 |:----------------------|---------------------------------------:|
 | **github**:           | [Nodejs-Colorado](https://github.com/Nodejs-Colorado)             |
 | **organizers**:       | [@r_a_lucas](https://twitter.com/r_a_lucas), [@MikeHerman](https://twitter.com/MikeHerman)            |
